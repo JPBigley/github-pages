@@ -1,0 +1,19 @@
+/* class selector */
+.heading {
+    color: brown;
+}
+
+/* ID Selector */
+#about {
+    color: blue;
+}
+
+/* Element selector */
+section {
+    background-color: purple;
+}
+
+/* Universal selector */
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
